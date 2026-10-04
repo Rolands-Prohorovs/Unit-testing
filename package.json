@@ -1,0 +1,29 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "mocha test/assert.test.js"
+  },
+  "devDependencies": {
+    "chai": "^6.3.0",
+    "mocha": "^11.8.0"
+  },
+  "description": "This is a template for unit testing on Mocha and Chai.",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rolands-Prohorovs/Unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rolands-Prohorovs/Unit-testing/issues"
+  },
+  "homepage": "https://github.com/Rolands-Prohorovs/Unit-testing#readme",
+  "type": "commonjs"
+}
